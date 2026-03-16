@@ -1,5 +1,3 @@
-# thomaskornfeld.github.io
-
 # Welcome to My Portfolio
 
 > ### Recent Project!
